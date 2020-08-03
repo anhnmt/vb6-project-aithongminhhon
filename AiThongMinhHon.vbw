@@ -1,0 +1,5 @@
+frmDangky = 0, 0, 0, 0, C, 26, 26, 1164, 668, C
+frmDangnhap = 0, 0, 0, 0, C, 52, 52, 1190, 694, C
+frmDashboard = 0, 0, 0, 0, C, 78, 78, 1216, 720, C
+frmMain = 0, 0, 0, 0, C, 104, 104, 1242, 746, C
+modConfig = 0, 0, 0, 0, C
